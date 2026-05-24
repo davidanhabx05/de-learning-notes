@@ -1,0 +1,500 @@
+2026-05-24 14:1:01 [INFO] Health check OK
+2026-05-24 14:2:01 [INFO] Health check OK
+2026-05-24 14:3:01 [INFO] Health check OK
+2026-05-24 14:4:45 [DATA] Station_HN | Temp: 29C | Rain: 4mm
+2026-05-24 14:5:01 [INFO] Health check OK
+2026-05-24 14:6:01 [INFO] Health check OK
+2026-05-24 14:7:01 [INFO] Health check OK
+2026-05-24 14:8:45 [DATA] Station_HN | Temp: 25C | Rain: 8mm
+2026-05-24 14:9:01 [INFO] Health check OK
+2026-05-24 14:10:01 [INFO] Health check OK
+2026-05-24 14:11:01 [INFO] Health check OK
+2026-05-24 14:12:12 [ERROR] Database connection timeout
+2026-05-24 14:13:01 [INFO] Health check OK
+2026-05-24 14:14:01 [INFO] Health check OK
+2026-05-24 14:15:01 [INFO] Health check OK
+2026-05-24 14:16:45 [DATA] Station_HN | Temp: 25C | Rain: 1mm
+2026-05-24 14:17:01 [INFO] Health check OK
+2026-05-24 14:18:01 [INFO] Health check OK
+2026-05-24 14:19:01 [INFO] Health check OK
+2026-05-24 14:20:45 [DATA] Station_HN | Temp: 29C | Rain: 5mm
+2026-05-24 14:21:01 [INFO] Health check OK
+2026-05-24 14:22:01 [INFO] Health check OK
+2026-05-24 14:23:01 [INFO] Health check OK
+2026-05-24 14:24:12 [ERROR] Database connection timeout
+2026-05-24 14:25:01 [INFO] Health check OK
+2026-05-24 14:26:01 [INFO] Health check OK
+2026-05-24 14:27:01 [INFO] Health check OK
+2026-05-24 14:28:45 [DATA] Station_HN | Temp: 29C | Rain: 13mm
+2026-05-24 14:29:01 [INFO] Health check OK
+2026-05-24 14:30:01 [INFO] Health check OK
+2026-05-24 14:31:01 [INFO] Health check OK
+2026-05-24 14:32:45 [DATA] Station_HN | Temp: 25C | Rain: 2mm
+2026-05-24 14:33:01 [INFO] Health check OK
+2026-05-24 14:34:01 [INFO] Health check OK
+2026-05-24 14:35:01 [INFO] Health check OK
+2026-05-24 14:36:12 [ERROR] Database connection timeout
+2026-05-24 14:37:01 [INFO] Health check OK
+2026-05-24 14:38:01 [INFO] Health check OK
+2026-05-24 14:39:01 [INFO] Health check OK
+2026-05-24 14:40:45 [DATA] Station_HN | Temp: 25C | Rain: 10mm
+2026-05-24 14:41:01 [INFO] Health check OK
+2026-05-24 14:42:01 [INFO] Health check OK
+2026-05-24 14:43:01 [INFO] Health check OK
+2026-05-24 14:44:45 [DATA] Station_HN | Temp: 29C | Rain: 14mm
+2026-05-24 14:45:01 [INFO] Health check OK
+2026-05-24 14:46:01 [INFO] Health check OK
+2026-05-24 14:47:01 [INFO] Health check OK
+2026-05-24 14:48:12 [ERROR] Database connection timeout
+2026-05-24 14:49:01 [INFO] Health check OK
+2026-05-24 14:50:01 [INFO] Health check OK
+2026-05-24 14:51:01 [INFO] Health check OK
+2026-05-24 14:52:45 [DATA] Station_HN | Temp: 29C | Rain: 7mm
+2026-05-24 14:53:01 [INFO] Health check OK
+2026-05-24 14:54:01 [INFO] Health check OK
+2026-05-24 14:55:01 [INFO] Health check OK
+2026-05-24 14:56:45 [DATA] Station_HN | Temp: 25C | Rain: 11mm
+2026-05-24 14:57:01 [INFO] Health check OK
+2026-05-24 14:58:01 [INFO] Health check OK
+2026-05-24 14:59:01 [INFO] Health check OK
+2026-05-24 14:0:12 [ERROR] Database connection timeout
+2026-05-24 14:1:01 [INFO] Health check OK
+2026-05-24 14:2:01 [INFO] Health check OK
+2026-05-24 14:3:01 [INFO] Health check OK
+2026-05-24 14:4:45 [DATA] Station_HN | Temp: 25C | Rain: 4mm
+2026-05-24 14:5:01 [INFO] Health check OK
+2026-05-24 14:6:01 [INFO] Health check OK
+2026-05-24 14:7:01 [INFO] Health check OK
+2026-05-24 14:8:45 [DATA] Station_HN | Temp: 29C | Rain: 8mm
+2026-05-24 14:9:01 [INFO] Health check OK
+2026-05-24 14:10:01 [INFO] Health check OK
+2026-05-24 14:11:01 [INFO] Health check OK
+2026-05-24 14:12:12 [ERROR] Database connection timeout
+2026-05-24 14:13:01 [INFO] Health check OK
+2026-05-24 14:14:01 [INFO] Health check OK
+2026-05-24 14:15:01 [INFO] Health check OK
+2026-05-24 14:16:45 [DATA] Station_HN | Temp: 29C | Rain: 1mm
+2026-05-24 14:17:01 [INFO] Health check OK
+2026-05-24 14:18:01 [INFO] Health check OK
+2026-05-24 14:19:01 [INFO] Health check OK
+2026-05-24 14:20:45 [DATA] Station_HN | Temp: 25C | Rain: 5mm
+2026-05-24 14:21:01 [INFO] Health check OK
+2026-05-24 14:22:01 [INFO] Health check OK
+2026-05-24 14:23:01 [INFO] Health check OK
+2026-05-24 14:24:12 [ERROR] Database connection timeout
+2026-05-24 14:25:01 [INFO] Health check OK
+2026-05-24 14:26:01 [INFO] Health check OK
+2026-05-24 14:27:01 [INFO] Health check OK
+2026-05-24 14:28:45 [DATA] Station_HN | Temp: 25C | Rain: 13mm
+2026-05-24 14:29:01 [INFO] Health check OK
+2026-05-24 14:30:01 [INFO] Health check OK
+2026-05-24 14:31:01 [INFO] Health check OK
+2026-05-24 14:32:45 [DATA] Station_HN | Temp: 29C | Rain: 2mm
+2026-05-24 14:33:01 [INFO] Health check OK
+2026-05-24 14:34:01 [INFO] Health check OK
+2026-05-24 14:35:01 [INFO] Health check OK
+2026-05-24 14:36:12 [ERROR] Database connection timeout
+2026-05-24 14:37:01 [INFO] Health check OK
+2026-05-24 14:38:01 [INFO] Health check OK
+2026-05-24 14:39:01 [INFO] Health check OK
+2026-05-24 14:40:45 [DATA] Station_HN | Temp: 29C | Rain: 10mm
+2026-05-24 14:41:01 [INFO] Health check OK
+2026-05-24 14:42:01 [INFO] Health check OK
+2026-05-24 14:43:01 [INFO] Health check OK
+2026-05-24 14:44:45 [DATA] Station_HN | Temp: 25C | Rain: 14mm
+2026-05-24 14:45:01 [INFO] Health check OK
+2026-05-24 14:46:01 [INFO] Health check OK
+2026-05-24 14:47:01 [INFO] Health check OK
+2026-05-24 14:48:12 [ERROR] Database connection timeout
+2026-05-24 14:49:01 [INFO] Health check OK
+2026-05-24 14:50:01 [INFO] Health check OK
+2026-05-24 14:51:01 [INFO] Health check OK
+2026-05-24 14:52:45 [DATA] Station_HN | Temp: 25C | Rain: 7mm
+2026-05-24 14:53:01 [INFO] Health check OK
+2026-05-24 14:54:01 [INFO] Health check OK
+2026-05-24 14:55:01 [INFO] Health check OK
+2026-05-24 14:56:45 [DATA] Station_HN | Temp: 29C | Rain: 11mm
+2026-05-24 14:57:01 [INFO] Health check OK
+2026-05-24 14:58:01 [INFO] Health check OK
+2026-05-24 14:59:01 [INFO] Health check OK
+2026-05-24 14:0:12 [ERROR] Database connection timeout
+2026-05-24 14:1:01 [INFO] Health check OK
+2026-05-24 14:2:01 [INFO] Health check OK
+2026-05-24 14:3:01 [INFO] Health check OK
+2026-05-24 14:4:45 [DATA] Station_HN | Temp: 29C | Rain: 4mm
+2026-05-24 14:5:01 [INFO] Health check OK
+2026-05-24 14:6:01 [INFO] Health check OK
+2026-05-24 14:7:01 [INFO] Health check OK
+2026-05-24 14:8:45 [DATA] Station_HN | Temp: 25C | Rain: 8mm
+2026-05-24 14:9:01 [INFO] Health check OK
+2026-05-24 14:10:01 [INFO] Health check OK
+2026-05-24 14:11:01 [INFO] Health check OK
+2026-05-24 14:12:12 [ERROR] Database connection timeout
+2026-05-24 14:13:01 [INFO] Health check OK
+2026-05-24 14:14:01 [INFO] Health check OK
+2026-05-24 14:15:01 [INFO] Health check OK
+2026-05-24 14:16:45 [DATA] Station_HN | Temp: 25C | Rain: 1mm
+2026-05-24 14:17:01 [INFO] Health check OK
+2026-05-24 14:18:01 [INFO] Health check OK
+2026-05-24 14:19:01 [INFO] Health check OK
+2026-05-24 14:20:45 [DATA] Station_HN | Temp: 29C | Rain: 5mm
+2026-05-24 14:21:01 [INFO] Health check OK
+2026-05-24 14:22:01 [INFO] Health check OK
+2026-05-24 14:23:01 [INFO] Health check OK
+2026-05-24 14:24:12 [ERROR] Database connection timeout
+2026-05-24 14:25:01 [INFO] Health check OK
+2026-05-24 14:26:01 [INFO] Health check OK
+2026-05-24 14:27:01 [INFO] Health check OK
+2026-05-24 14:28:45 [DATA] Station_HN | Temp: 29C | Rain: 13mm
+2026-05-24 14:29:01 [INFO] Health check OK
+2026-05-24 14:30:01 [INFO] Health check OK
+2026-05-24 14:31:01 [INFO] Health check OK
+2026-05-24 14:32:45 [DATA] Station_HN | Temp: 25C | Rain: 2mm
+2026-05-24 14:33:01 [INFO] Health check OK
+2026-05-24 14:34:01 [INFO] Health check OK
+2026-05-24 14:35:01 [INFO] Health check OK
+2026-05-24 14:36:12 [ERROR] Database connection timeout
+2026-05-24 14:37:01 [INFO] Health check OK
+2026-05-24 14:38:01 [INFO] Health check OK
+2026-05-24 14:39:01 [INFO] Health check OK
+2026-05-24 14:40:45 [DATA] Station_HN | Temp: 25C | Rain: 10mm
+2026-05-24 14:41:01 [INFO] Health check OK
+2026-05-24 14:42:01 [INFO] Health check OK
+2026-05-24 14:43:01 [INFO] Health check OK
+2026-05-24 14:44:45 [DATA] Station_HN | Temp: 29C | Rain: 14mm
+2026-05-24 14:45:01 [INFO] Health check OK
+2026-05-24 14:46:01 [INFO] Health check OK
+2026-05-24 14:47:01 [INFO] Health check OK
+2026-05-24 14:48:12 [ERROR] Database connection timeout
+2026-05-24 14:49:01 [INFO] Health check OK
+2026-05-24 14:50:01 [INFO] Health check OK
+2026-05-24 14:51:01 [INFO] Health check OK
+2026-05-24 14:52:45 [DATA] Station_HN | Temp: 29C | Rain: 7mm
+2026-05-24 14:53:01 [INFO] Health check OK
+2026-05-24 14:54:01 [INFO] Health check OK
+2026-05-24 14:55:01 [INFO] Health check OK
+2026-05-24 14:56:45 [DATA] Station_HN | Temp: 25C | Rain: 11mm
+2026-05-24 14:57:01 [INFO] Health check OK
+2026-05-24 14:58:01 [INFO] Health check OK
+2026-05-24 14:59:01 [INFO] Health check OK
+2026-05-24 14:0:12 [ERROR] Database connection timeout
+2026-05-24 14:1:01 [INFO] Health check OK
+2026-05-24 14:2:01 [INFO] Health check OK
+2026-05-24 14:3:01 [INFO] Health check OK
+2026-05-24 14:4:45 [DATA] Station_HN | Temp: 25C | Rain: 4mm
+2026-05-24 14:5:01 [INFO] Health check OK
+2026-05-24 14:6:01 [INFO] Health check OK
+2026-05-24 14:7:01 [INFO] Health check OK
+2026-05-24 14:8:45 [DATA] Station_HN | Temp: 29C | Rain: 8mm
+2026-05-24 14:9:01 [INFO] Health check OK
+2026-05-24 14:10:01 [INFO] Health check OK
+2026-05-24 14:11:01 [INFO] Health check OK
+2026-05-24 14:12:12 [ERROR] Database connection timeout
+2026-05-24 14:13:01 [INFO] Health check OK
+2026-05-24 14:14:01 [INFO] Health check OK
+2026-05-24 14:15:01 [INFO] Health check OK
+2026-05-24 14:16:45 [DATA] Station_HN | Temp: 29C | Rain: 1mm
+2026-05-24 14:17:01 [INFO] Health check OK
+2026-05-24 14:18:01 [INFO] Health check OK
+2026-05-24 14:19:01 [INFO] Health check OK
+2026-05-24 14:20:45 [DATA] Station_HN | Temp: 25C | Rain: 5mm
+2026-05-24 14:21:01 [INFO] Health check OK
+2026-05-24 14:22:01 [INFO] Health check OK
+2026-05-24 14:23:01 [INFO] Health check OK
+2026-05-24 14:24:12 [ERROR] Database connection timeout
+2026-05-24 14:25:01 [INFO] Health check OK
+2026-05-24 14:26:01 [INFO] Health check OK
+2026-05-24 14:27:01 [INFO] Health check OK
+2026-05-24 14:28:45 [DATA] Station_HN | Temp: 25C | Rain: 13mm
+2026-05-24 14:29:01 [INFO] Health check OK
+2026-05-24 14:30:01 [INFO] Health check OK
+2026-05-24 14:31:01 [INFO] Health check OK
+2026-05-24 14:32:45 [DATA] Station_HN | Temp: 29C | Rain: 2mm
+2026-05-24 14:33:01 [INFO] Health check OK
+2026-05-24 14:34:01 [INFO] Health check OK
+2026-05-24 14:35:01 [INFO] Health check OK
+2026-05-24 14:36:12 [ERROR] Database connection timeout
+2026-05-24 14:37:01 [INFO] Health check OK
+2026-05-24 14:38:01 [INFO] Health check OK
+2026-05-24 14:39:01 [INFO] Health check OK
+2026-05-24 14:40:45 [DATA] Station_HN | Temp: 29C | Rain: 10mm
+2026-05-24 14:41:01 [INFO] Health check OK
+2026-05-24 14:42:01 [INFO] Health check OK
+2026-05-24 14:43:01 [INFO] Health check OK
+2026-05-24 14:44:45 [DATA] Station_HN | Temp: 25C | Rain: 14mm
+2026-05-24 14:45:01 [INFO] Health check OK
+2026-05-24 14:46:01 [INFO] Health check OK
+2026-05-24 14:47:01 [INFO] Health check OK
+2026-05-24 14:48:12 [ERROR] Database connection timeout
+2026-05-24 14:49:01 [INFO] Health check OK
+2026-05-24 14:50:01 [INFO] Health check OK
+2026-05-24 14:51:01 [INFO] Health check OK
+2026-05-24 14:52:45 [DATA] Station_HN | Temp: 25C | Rain: 7mm
+2026-05-24 14:53:01 [INFO] Health check OK
+2026-05-24 14:54:01 [INFO] Health check OK
+2026-05-24 14:55:01 [INFO] Health check OK
+2026-05-24 14:56:45 [DATA] Station_HN | Temp: 29C | Rain: 11mm
+2026-05-24 14:57:01 [INFO] Health check OK
+2026-05-24 14:58:01 [INFO] Health check OK
+2026-05-24 14:59:01 [INFO] Health check OK
+2026-05-24 14:0:12 [ERROR] Database connection timeout
+2026-05-24 14:1:01 [INFO] Health check OK
+2026-05-24 14:2:01 [INFO] Health check OK
+2026-05-24 14:3:01 [INFO] Health check OK
+2026-05-24 14:4:45 [DATA] Station_HN | Temp: 29C | Rain: 4mm
+2026-05-24 14:5:01 [INFO] Health check OK
+2026-05-24 14:6:01 [INFO] Health check OK
+2026-05-24 14:7:01 [INFO] Health check OK
+2026-05-24 14:8:45 [DATA] Station_HN | Temp: 25C | Rain: 8mm
+2026-05-24 14:9:01 [INFO] Health check OK
+2026-05-24 14:10:01 [INFO] Health check OK
+2026-05-24 14:11:01 [INFO] Health check OK
+2026-05-24 14:12:12 [ERROR] Database connection timeout
+2026-05-24 14:13:01 [INFO] Health check OK
+2026-05-24 14:14:01 [INFO] Health check OK
+2026-05-24 14:15:01 [INFO] Health check OK
+2026-05-24 14:16:45 [DATA] Station_HN | Temp: 25C | Rain: 1mm
+2026-05-24 14:17:01 [INFO] Health check OK
+2026-05-24 14:18:01 [INFO] Health check OK
+2026-05-24 14:19:01 [INFO] Health check OK
+2026-05-24 14:20:45 [DATA] Station_HN | Temp: 29C | Rain: 5mm
+2026-05-24 14:21:01 [INFO] Health check OK
+2026-05-24 14:22:01 [INFO] Health check OK
+2026-05-24 14:23:01 [INFO] Health check OK
+2026-05-24 14:24:12 [ERROR] Database connection timeout
+2026-05-24 14:25:01 [INFO] Health check OK
+2026-05-24 14:26:01 [INFO] Health check OK
+2026-05-24 14:27:01 [INFO] Health check OK
+2026-05-24 14:28:45 [DATA] Station_HN | Temp: 29C | Rain: 13mm
+2026-05-24 14:29:01 [INFO] Health check OK
+2026-05-24 14:30:01 [INFO] Health check OK
+2026-05-24 14:31:01 [INFO] Health check OK
+2026-05-24 14:32:45 [DATA] Station_HN | Temp: 25C | Rain: 2mm
+2026-05-24 14:33:01 [INFO] Health check OK
+2026-05-24 14:34:01 [INFO] Health check OK
+2026-05-24 14:35:01 [INFO] Health check OK
+2026-05-24 14:36:12 [ERROR] Database connection timeout
+2026-05-24 14:37:01 [INFO] Health check OK
+2026-05-24 14:38:01 [INFO] Health check OK
+2026-05-24 14:39:01 [INFO] Health check OK
+2026-05-24 14:40:45 [DATA] Station_HN | Temp: 25C | Rain: 10mm
+2026-05-24 14:41:01 [INFO] Health check OK
+2026-05-24 14:42:01 [INFO] Health check OK
+2026-05-24 14:43:01 [INFO] Health check OK
+2026-05-24 14:44:45 [DATA] Station_HN | Temp: 29C | Rain: 14mm
+2026-05-24 14:45:01 [INFO] Health check OK
+2026-05-24 14:46:01 [INFO] Health check OK
+2026-05-24 14:47:01 [INFO] Health check OK
+2026-05-24 14:48:12 [ERROR] Database connection timeout
+2026-05-24 14:49:01 [INFO] Health check OK
+2026-05-24 14:50:01 [INFO] Health check OK
+2026-05-24 14:51:01 [INFO] Health check OK
+2026-05-24 14:52:45 [DATA] Station_HN | Temp: 29C | Rain: 7mm
+2026-05-24 14:53:01 [INFO] Health check OK
+2026-05-24 14:54:01 [INFO] Health check OK
+2026-05-24 14:55:01 [INFO] Health check OK
+2026-05-24 14:56:45 [DATA] Station_HN | Temp: 25C | Rain: 11mm
+2026-05-24 14:57:01 [INFO] Health check OK
+2026-05-24 14:58:01 [INFO] Health check OK
+2026-05-24 14:59:01 [INFO] Health check OK
+2026-05-24 14:0:12 [ERROR] Database connection timeout
+2026-05-24 14:1:01 [INFO] Health check OK
+2026-05-24 14:2:01 [INFO] Health check OK
+2026-05-24 14:3:01 [INFO] Health check OK
+2026-05-24 14:4:45 [DATA] Station_HN | Temp: 25C | Rain: 4mm
+2026-05-24 14:5:01 [INFO] Health check OK
+2026-05-24 14:6:01 [INFO] Health check OK
+2026-05-24 14:7:01 [INFO] Health check OK
+2026-05-24 14:8:45 [DATA] Station_HN | Temp: 29C | Rain: 8mm
+2026-05-24 14:9:01 [INFO] Health check OK
+2026-05-24 14:10:01 [INFO] Health check OK
+2026-05-24 14:11:01 [INFO] Health check OK
+2026-05-24 14:12:12 [ERROR] Database connection timeout
+2026-05-24 14:13:01 [INFO] Health check OK
+2026-05-24 14:14:01 [INFO] Health check OK
+2026-05-24 14:15:01 [INFO] Health check OK
+2026-05-24 14:16:45 [DATA] Station_HN | Temp: 29C | Rain: 1mm
+2026-05-24 14:17:01 [INFO] Health check OK
+2026-05-24 14:18:01 [INFO] Health check OK
+2026-05-24 14:19:01 [INFO] Health check OK
+2026-05-24 14:20:45 [DATA] Station_HN | Temp: 25C | Rain: 5mm
+2026-05-24 14:21:01 [INFO] Health check OK
+2026-05-24 14:22:01 [INFO] Health check OK
+2026-05-24 14:23:01 [INFO] Health check OK
+2026-05-24 14:24:12 [ERROR] Database connection timeout
+2026-05-24 14:25:01 [INFO] Health check OK
+2026-05-24 14:26:01 [INFO] Health check OK
+2026-05-24 14:27:01 [INFO] Health check OK
+2026-05-24 14:28:45 [DATA] Station_HN | Temp: 25C | Rain: 13mm
+2026-05-24 14:29:01 [INFO] Health check OK
+2026-05-24 14:30:01 [INFO] Health check OK
+2026-05-24 14:31:01 [INFO] Health check OK
+2026-05-24 14:32:45 [DATA] Station_HN | Temp: 29C | Rain: 2mm
+2026-05-24 14:33:01 [INFO] Health check OK
+2026-05-24 14:34:01 [INFO] Health check OK
+2026-05-24 14:35:01 [INFO] Health check OK
+2026-05-24 14:36:12 [ERROR] Database connection timeout
+2026-05-24 14:37:01 [INFO] Health check OK
+2026-05-24 14:38:01 [INFO] Health check OK
+2026-05-24 14:39:01 [INFO] Health check OK
+2026-05-24 14:40:45 [DATA] Station_HN | Temp: 29C | Rain: 10mm
+2026-05-24 14:41:01 [INFO] Health check OK
+2026-05-24 14:42:01 [INFO] Health check OK
+2026-05-24 14:43:01 [INFO] Health check OK
+2026-05-24 14:44:45 [DATA] Station_HN | Temp: 25C | Rain: 14mm
+2026-05-24 14:45:01 [INFO] Health check OK
+2026-05-24 14:46:01 [INFO] Health check OK
+2026-05-24 14:47:01 [INFO] Health check OK
+2026-05-24 14:48:12 [ERROR] Database connection timeout
+2026-05-24 14:49:01 [INFO] Health check OK
+2026-05-24 14:50:01 [INFO] Health check OK
+2026-05-24 14:51:01 [INFO] Health check OK
+2026-05-24 14:52:45 [DATA] Station_HN | Temp: 25C | Rain: 7mm
+2026-05-24 14:53:01 [INFO] Health check OK
+2026-05-24 14:54:01 [INFO] Health check OK
+2026-05-24 14:55:01 [INFO] Health check OK
+2026-05-24 14:56:45 [DATA] Station_HN | Temp: 29C | Rain: 11mm
+2026-05-24 14:57:01 [INFO] Health check OK
+2026-05-24 14:58:01 [INFO] Health check OK
+2026-05-24 14:59:01 [INFO] Health check OK
+2026-05-24 14:0:12 [ERROR] Database connection timeout
+2026-05-24 14:1:01 [INFO] Health check OK
+2026-05-24 14:2:01 [INFO] Health check OK
+2026-05-24 14:3:01 [INFO] Health check OK
+2026-05-24 14:4:45 [DATA] Station_HN | Temp: 29C | Rain: 4mm
+2026-05-24 14:5:01 [INFO] Health check OK
+2026-05-24 14:6:01 [INFO] Health check OK
+2026-05-24 14:7:01 [INFO] Health check OK
+2026-05-24 14:8:45 [DATA] Station_HN | Temp: 25C | Rain: 8mm
+2026-05-24 14:9:01 [INFO] Health check OK
+2026-05-24 14:10:01 [INFO] Health check OK
+2026-05-24 14:11:01 [INFO] Health check OK
+2026-05-24 14:12:12 [ERROR] Database connection timeout
+2026-05-24 14:13:01 [INFO] Health check OK
+2026-05-24 14:14:01 [INFO] Health check OK
+2026-05-24 14:15:01 [INFO] Health check OK
+2026-05-24 14:16:45 [DATA] Station_HN | Temp: 25C | Rain: 1mm
+2026-05-24 14:17:01 [INFO] Health check OK
+2026-05-24 14:18:01 [INFO] Health check OK
+2026-05-24 14:19:01 [INFO] Health check OK
+2026-05-24 14:20:45 [DATA] Station_HN | Temp: 29C | Rain: 5mm
+2026-05-24 14:21:01 [INFO] Health check OK
+2026-05-24 14:22:01 [INFO] Health check OK
+2026-05-24 14:23:01 [INFO] Health check OK
+2026-05-24 14:24:12 [ERROR] Database connection timeout
+2026-05-24 14:25:01 [INFO] Health check OK
+2026-05-24 14:26:01 [INFO] Health check OK
+2026-05-24 14:27:01 [INFO] Health check OK
+2026-05-24 14:28:45 [DATA] Station_HN | Temp: 29C | Rain: 13mm
+2026-05-24 14:29:01 [INFO] Health check OK
+2026-05-24 14:30:01 [INFO] Health check OK
+2026-05-24 14:31:01 [INFO] Health check OK
+2026-05-24 14:32:45 [DATA] Station_HN | Temp: 25C | Rain: 2mm
+2026-05-24 14:33:01 [INFO] Health check OK
+2026-05-24 14:34:01 [INFO] Health check OK
+2026-05-24 14:35:01 [INFO] Health check OK
+2026-05-24 14:36:12 [ERROR] Database connection timeout
+2026-05-24 14:37:01 [INFO] Health check OK
+2026-05-24 14:38:01 [INFO] Health check OK
+2026-05-24 14:39:01 [INFO] Health check OK
+2026-05-24 14:40:45 [DATA] Station_HN | Temp: 25C | Rain: 10mm
+2026-05-24 14:41:01 [INFO] Health check OK
+2026-05-24 14:42:01 [INFO] Health check OK
+2026-05-24 14:43:01 [INFO] Health check OK
+2026-05-24 14:44:45 [DATA] Station_HN | Temp: 29C | Rain: 14mm
+2026-05-24 14:45:01 [INFO] Health check OK
+2026-05-24 14:46:01 [INFO] Health check OK
+2026-05-24 14:47:01 [INFO] Health check OK
+2026-05-24 14:48:12 [ERROR] Database connection timeout
+2026-05-24 14:49:01 [INFO] Health check OK
+2026-05-24 14:50:01 [INFO] Health check OK
+2026-05-24 14:51:01 [INFO] Health check OK
+2026-05-24 14:52:45 [DATA] Station_HN | Temp: 29C | Rain: 7mm
+2026-05-24 14:53:01 [INFO] Health check OK
+2026-05-24 14:54:01 [INFO] Health check OK
+2026-05-24 14:55:01 [INFO] Health check OK
+2026-05-24 14:56:45 [DATA] Station_HN | Temp: 25C | Rain: 11mm
+2026-05-24 14:57:01 [INFO] Health check OK
+2026-05-24 14:58:01 [INFO] Health check OK
+2026-05-24 14:59:01 [INFO] Health check OK
+2026-05-24 14:0:12 [ERROR] Database connection timeout
+2026-05-24 14:1:01 [INFO] Health check OK
+2026-05-24 14:2:01 [INFO] Health check OK
+2026-05-24 14:3:01 [INFO] Health check OK
+2026-05-24 14:4:45 [DATA] Station_HN | Temp: 25C | Rain: 4mm
+2026-05-24 14:5:01 [INFO] Health check OK
+2026-05-24 14:6:01 [INFO] Health check OK
+2026-05-24 14:7:01 [INFO] Health check OK
+2026-05-24 14:8:45 [DATA] Station_HN | Temp: 29C | Rain: 8mm
+2026-05-24 14:9:01 [INFO] Health check OK
+2026-05-24 14:10:01 [INFO] Health check OK
+2026-05-24 14:11:01 [INFO] Health check OK
+2026-05-24 14:12:12 [ERROR] Database connection timeout
+2026-05-24 14:13:01 [INFO] Health check OK
+2026-05-24 14:14:01 [INFO] Health check OK
+2026-05-24 14:15:01 [INFO] Health check OK
+2026-05-24 14:16:45 [DATA] Station_HN | Temp: 29C | Rain: 1mm
+2026-05-24 14:17:01 [INFO] Health check OK
+2026-05-24 14:18:01 [INFO] Health check OK
+2026-05-24 14:19:01 [INFO] Health check OK
+2026-05-24 14:20:45 [DATA] Station_HN | Temp: 25C | Rain: 5mm
+2026-05-24 14:21:01 [INFO] Health check OK
+2026-05-24 14:22:01 [INFO] Health check OK
+2026-05-24 14:23:01 [INFO] Health check OK
+2026-05-24 14:24:12 [ERROR] Database connection timeout
+2026-05-24 14:25:01 [INFO] Health check OK
+2026-05-24 14:26:01 [INFO] Health check OK
+2026-05-24 14:27:01 [INFO] Health check OK
+2026-05-24 14:28:45 [DATA] Station_HN | Temp: 25C | Rain: 13mm
+2026-05-24 14:29:01 [INFO] Health check OK
+2026-05-24 14:30:01 [INFO] Health check OK
+2026-05-24 14:31:01 [INFO] Health check OK
+2026-05-24 14:32:45 [DATA] Station_HN | Temp: 29C | Rain: 2mm
+2026-05-24 14:33:01 [INFO] Health check OK
+2026-05-24 14:34:01 [INFO] Health check OK
+2026-05-24 14:35:01 [INFO] Health check OK
+2026-05-24 14:36:12 [ERROR] Database connection timeout
+2026-05-24 14:37:01 [INFO] Health check OK
+2026-05-24 14:38:01 [INFO] Health check OK
+2026-05-24 14:39:01 [INFO] Health check OK
+2026-05-24 14:40:45 [DATA] Station_HN | Temp: 29C | Rain: 10mm
+2026-05-24 14:41:01 [INFO] Health check OK
+2026-05-24 14:42:01 [INFO] Health check OK
+2026-05-24 14:43:01 [INFO] Health check OK
+2026-05-24 14:44:45 [DATA] Station_HN | Temp: 25C | Rain: 14mm
+2026-05-24 14:45:01 [INFO] Health check OK
+2026-05-24 14:46:01 [INFO] Health check OK
+2026-05-24 14:47:01 [INFO] Health check OK
+2026-05-24 14:48:12 [ERROR] Database connection timeout
+2026-05-24 14:49:01 [INFO] Health check OK
+2026-05-24 14:50:01 [INFO] Health check OK
+2026-05-24 14:51:01 [INFO] Health check OK
+2026-05-24 14:52:45 [DATA] Station_HN | Temp: 25C | Rain: 7mm
+2026-05-24 14:53:01 [INFO] Health check OK
+2026-05-24 14:54:01 [INFO] Health check OK
+2026-05-24 14:55:01 [INFO] Health check OK
+2026-05-24 14:56:45 [DATA] Station_HN | Temp: 29C | Rain: 11mm
+2026-05-24 14:57:01 [INFO] Health check OK
+2026-05-24 14:58:01 [INFO] Health check OK
+2026-05-24 14:59:01 [INFO] Health check OK
+2026-05-24 14:0:12 [ERROR] Database connection timeout
+2026-05-24 14:1:01 [INFO] Health check OK
+2026-05-24 14:2:01 [INFO] Health check OK
+2026-05-24 14:3:01 [INFO] Health check OK
+2026-05-24 14:4:45 [DATA] Station_HN | Temp: 29C | Rain: 4mm
+2026-05-24 14:5:01 [INFO] Health check OK
+2026-05-24 14:6:01 [INFO] Health check OK
+2026-05-24 14:7:01 [INFO] Health check OK
+2026-05-24 14:8:45 [DATA] Station_HN | Temp: 25C | Rain: 8mm
+2026-05-24 14:9:01 [INFO] Health check OK
+2026-05-24 14:10:01 [INFO] Health check OK
+2026-05-24 14:11:01 [INFO] Health check OK
+2026-05-24 14:12:12 [ERROR] Database connection timeout
+2026-05-24 14:13:01 [INFO] Health check OK
+2026-05-24 14:14:01 [INFO] Health check OK
+2026-05-24 14:15:01 [INFO] Health check OK
+2026-05-24 14:16:45 [DATA] Station_HN | Temp: 25C | Rain: 1mm
+2026-05-24 14:17:01 [INFO] Health check OK
+2026-05-24 14:18:01 [INFO] Health check OK
+2026-05-24 14:19:01 [INFO] Health check OK
+2026-05-24 14:20:45 [DATA] Station_HN | Temp: 29C | Rain: 5mm
